@@ -1,3 +1,7 @@
+layout: page
+title: "Biography"
+permalink: /bio/
+
 ![Credit: Kevin Grady/Radcliffe Institute](assets/img/Nicole-Nelson-at-Radcliffe.jpg)
 
 I am an Associate Professor in the [Department of Medical History and Bioethics](https://medhist.wisc.edu/) at the University of Wisconsin–Madison. I’m also a member of the [History of Science, Medicine, and Technology (HSMT) program](https://history.wisc.edu/fields-programs-and-working-groups/history-of-science-medicine-and-technology/) in the Department of History, and a member of the Steering Committee for the [Holtz Center for Science and Technology Studies](https://sts.wisc.edu/).
