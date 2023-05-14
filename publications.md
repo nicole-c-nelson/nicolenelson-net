@@ -7,8 +7,7 @@ Ramsden. 2014. “Making Organisms Model Human Behavior: Situated Models
 in North-American Alcohol Research, Since 1950.” *Science in Context* 27
 (3): 485–509.
 
-Cambrosio, Alberto, Pascale Bourret, Peter Keating, and Nicole Nelson.
-2017. “Opening the Regulatory Black Box of Clinical Cancer Research:
+Cambrosio, Alberto, Pascale Bourret, Peter Keating, and Nicole Nelson. 2017. “Opening the Regulatory Black Box of Clinical Cancer Research:
 Transnational Expertise Networks and ‘Disruptive’ Technologies.”
 *Minerva* 55: 161–85.
 
@@ -65,12 +64,10 @@ Genetics of Psychiatric Disorders*. University of Chicago Press.
 ———. 2021. “Understand the Real Reasons Reproducibility Reform Fails.”
 *Nature* 600 (7888): 191.
 
-Nelson, Nicole C., Julie Chung, Kelsey Ichikawa, and Momin M. Malik.
-2022. “Psychology Exceptionalism and the Multiple Discovery of the
+Nelson, Nicole C., Julie Chung, Kelsey Ichikawa, and Momin M. Malik. 2022. “Psychology Exceptionalism and the Multiple Discovery of the
 Replication Crisis.” *Review of General Psychology* 26 (2): 184–98.
 
-Nelson, Nicole C., Kelsey Ichikawa, Julie Chung, and Momin M. Malik.
-2021. “Mapping the Discursive Dimensions of the Reproducibility Crisis:
+Nelson, Nicole C., Kelsey Ichikawa, Julie Chung, and Momin M. Malik. 2021. “Mapping the Discursive Dimensions of the Reproducibility Crisis:
 A Mixed Methods Analysis.” *Plos One* 16 (7): e0254090.
 
 Nelson, Nicole C., Peter Keating, and Alberto Cambrosio. 2013. “On Being
