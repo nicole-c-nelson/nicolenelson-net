@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Biography"
 permalink: /bio/
+---
 
 ![Credit: Kevin Grady/Radcliffe Institute](assets/img/Nicole-Nelson-at-Radcliffe.jpg)
 
