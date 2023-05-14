@@ -1,3 +1,7 @@
+---
+title: "Publications"
+---
+
 Ankeny, Rachel A., Sabina Leonelli, Nicole C. Nelson, and Edmund
 Ramsden. 2014. “Making Organisms Model Human Behavior: Situated Models
 in North-American Alcohol Research, Since 1950.” *Science in Context* 27
