@@ -37,7 +37,7 @@ plugins:
   - jekyll-feed
 
 # Site logo
-logo: cropped-Mouse-drawing-small.jpg
+logo: assets/pixil-frame-0.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.
