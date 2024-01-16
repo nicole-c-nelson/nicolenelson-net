@@ -2,6 +2,10 @@
 title: "Publications"
 ---
 
+![Front cover of my book "Model Behavior." The cover shows a mouse sitting on a gloved hand, its tail held by another gloved hand.](assets/img/nelson-model-behavior-front-cover-small.png)
+
+Purchase my book from [Amazon](https://amzn.to/48WNmsA) or [Chicago University Press](https://press.uchicago.edu/ucp/books/book/chicago/M/bo27949249.html)
+
 <div class="csl-bib-body" style="line-height: 1.35; ">
   <div class="csl-entry" style="clear: left; margin-bottom: 1em;">
     <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">1.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Lubega N, Anderson A, Nelson NC. Experience of irreproducibility as a risk factor for poor mental health in biomedical science doctoral students: A survey and interview-based study. Forero DA, ed. <i>PLoS ONE</i>. 2023;18(11):e0293584. doi:<a href="https://doi.org/10.1371/journal.pone.0293584">10.1371/journal.pone.0293584</a></div>
