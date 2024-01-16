@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 
-![Front cover of my book "Model Behavior." The cover shows a mouse sitting on a gloved hand, its tail held by another gloved hand.](assets/img/nelson-model-behavior-front-cover-small.png)
+[![Front cover of my book "Model Behavior." The cover shows a mouse sitting on a gloved hand, its tail held by another gloved hand.](assets/img/nelson-model-behavior-front-cover-small.png){: width="250" }](https://amzn.to/48WNmsA)
 
 Purchase my book from [Amazon](https://amzn.to/48WNmsA) or [Chicago University Press](https://press.uchicago.edu/ucp/books/book/chicago/M/bo27949249.html)
 
