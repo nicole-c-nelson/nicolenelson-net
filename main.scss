@@ -1,0 +1,13 @@
+---
+---
+
+@import "minima";
+
+.site-title::before {
+	content: url("/nicolenelson-net/assets/img/cropped-Mouse-drawing-32px.png");
+	display: inline-block;
+	position: relative;
+	height: 35px;
+	top: 5px;
+    right: 5px;
+}
