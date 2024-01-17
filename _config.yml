@@ -22,7 +22,7 @@ title: Nicole C. Nelson, PhD
 email: nicole.nelson@wisc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Nicole C. Nelson is an Associate Professor in the Department of Medical History and Bioethics at the University of Wisconsin–Madison. I study complexity and uncertainty in biomedicine, with a particular focus on preclinical research with animal models. 
-baseurl: "/nicolenelson-net/" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://nicolenelson.net" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: nicole-c-nelson 
 
